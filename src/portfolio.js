@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "MULTIDICIPLINARY DATA SCIENCE",
+  subTitle: "MULTIDISCIPLINARY DATA SCIENCE",
   skills: [
     emoji(
       "⚡ Develop and deploy Python Packages"
